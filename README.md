@@ -14,6 +14,6 @@
 ### Usage:
 ```
 git clone https://github.com/incharta/ins-option-bot
-cd inshackle-bot
-bash inshackle.sh
+cd ins-option-bot
+bash insoption.sh
 ```
