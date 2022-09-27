@@ -1,4 +1,3 @@
-# ins-option-bot
 # INSoption v2.0
 # Instagram bot,auto follower
 ## Recoded: github.com/incharta/ins-option-bot
