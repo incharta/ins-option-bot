@@ -2,7 +2,6 @@
 # INSoption v2.0
 # recoded by: INCHARTA
 # github.com/incharta/ins-option-bot
-# If you use any part from this code, give me the credits, please, read the License
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
